@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Malcolm Certain"
-  pronouns         : "they/them"
+  pronouns         : # pns
   bio              : "Undergraduate in Applied Mathematics & Economics"
   location         : "Providence, RI"
   employer         : "Brown University"
