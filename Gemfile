@@ -10,3 +10,5 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+gem 'tzinfo'
+gem 'tzinfo-data', platforms: [:x64_mingw, :mingw, :mswin]
