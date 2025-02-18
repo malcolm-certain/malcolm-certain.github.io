@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Your Name / Site Title"
+site_theme               : "dark"
+title                    : "Malcolm Certain"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Malcolm Certain"
 description              : &description "personal description"
 url                      : https://malcolm-certain.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "malcolm-certain/malcolm-certain.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Malcolm Certain"
+  pronouns         : "they/them"
+  bio              : "Undergraduate in Applied Mathematics & Economics"
+  location         : "Providence, RI"
+  employer         : "Brown University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "malcolm_certain@brown.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
