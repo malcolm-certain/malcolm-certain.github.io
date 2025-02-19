@@ -9,8 +9,9 @@ redirect_from:
 
 Hello! I'm Malcolm Certain, an undergraduate student studying Applied Mathematics-Economics and Urban Studies at Brown University.
 I plan on attending graduate school in Economics or Public Policy and going into academic research.
+I am passionate about the use of data and high-quality research to improve policy decisions, particularly at the local level.
 My primary research interests are in public policy and education, but I also hope to study labor, health, and other fields in applied microeconomics.
-I have research experience under multiple leading scholars in economics, including NBER affiliates Matthew A. Kraft and Anna Aizer.
+I have research experience under multiple leading scholars in economics spanning the fields of education, political economy, public policy, and health.
 
 Outside of economics, I like to write and solve puzzles.
 Through Brown Puzzle Club, I wrote for [Puzzlethon 2024](https://puzzlethon.brownpuzzle.club/) and [Brown Puzzle Hunt 2025](https://www.brownpuzzlehunt.com/).

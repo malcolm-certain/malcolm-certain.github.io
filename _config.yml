@@ -12,7 +12,7 @@ site_theme               : "dark"
 title                    : "Malcolm Certain"
 title_separator          : "-"
 name                     : &name "Malcolm Certain"
-description              : &description "personal description"
+description              : &description "I am an aspiring academic economist passionate about improving public policy through the use of data"
 url                      : https://malcolm-certain.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "malcolm-certain/malcolm-certain.github.io"
@@ -22,7 +22,7 @@ repository               : "malcolm-certain/malcolm-certain.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Malcolm Certain"
   pronouns         : # pns
   bio              : "Undergraduate in Applied Mathematics & Economics"
@@ -85,7 +85,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "teaser.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -236,7 +236,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
