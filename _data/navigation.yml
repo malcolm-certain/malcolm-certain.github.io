@@ -21,5 +21,4 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /files/malcolm_certain_cv.pdf/
-    target: "_blank"
+    url: /cv/
