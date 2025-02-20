@@ -16,4 +16,4 @@ I have research experience under multiple leading scholars in economics spanning
 Outside of economics, I like to write and solve puzzles.
 Through Brown Puzzle Club, I wrote for [Puzzlethon 2024](https://puzzlethon.brownpuzzle.club/) and [Brown Puzzle Hunt 2025](https://www.brownpuzzlehunt.com/).
 I also participated in MIT Mystery Hunt 2025 on team Providence Crime Syndications, placing 2nd.
-My other interests include jazz piano, Magic: the Gathering, role-playing games, and the Seattle Seahawks.
+My other interests include jazz music, Magic: the Gathering, role-playing games, and the Seattle Seahawks.
