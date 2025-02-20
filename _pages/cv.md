@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: redirected
 title: "CV"
 permalink: /cv/
 author_profile: true
