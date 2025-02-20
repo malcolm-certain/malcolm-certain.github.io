@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Malcolm Certain, an undergraduate student studying Applied Mathematics-Economics and Urban Studies at Brown University.
+Hello! I'm Malcolm, an undergraduate student studying Applied Mathematics-Economics and Urban Studies at Brown University.
 I plan on attending graduate school in Economics or Public Policy and going into academic research.
 I am passionate about the use of data and high-quality research to improve policy decisions, particularly at the local level.
 My primary research interests are in public policy and education, but I also hope to study labor, health, and other fields in applied microeconomics.
