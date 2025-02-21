@@ -5,8 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-hide:
-  - title
 ---
 
 Hello! I'm Malcolm, an undergraduate student studying Applied Mathematics-Economics and Urban Studies at Brown University.
