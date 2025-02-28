@@ -20,3 +20,4 @@ main:
   - title: "CV"
     url: /files/malcolm_certain_cv.pdf
     target: "_blank"
+    rel: "noopener noreferrer"
