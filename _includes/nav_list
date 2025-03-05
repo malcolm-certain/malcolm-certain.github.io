@@ -17,6 +17,7 @@
             <a href="{{ domain }}{{ nav.url }}" class="current"><span class="nav__sub-title">{{ nav.title }}</span></a>
           {% else %}
             <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+          {% endif %}
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}
