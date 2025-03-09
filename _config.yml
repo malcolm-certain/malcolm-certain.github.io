@@ -85,6 +85,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  wip:
+    title: 'Works in Progress'
 
 # Site Settings
 teaser                   : "teaser.jpg"
