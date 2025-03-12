@@ -8,14 +8,14 @@ main:
   - title: "Home"
     url: /
 
-# - title: "Research"
-#   url: /research/
+#  - title: "Research"
+#    url: /research/
 
-# - title: "Teaching"
-#   url: /teaching/
+#  - title: "Teaching"
+#    url: /teaching/
 
-# - title: "Talks"
-#   url: /talks/
+#  - title: "Talks"
+#    url: /talks/
     
   - title: "CV"
     url: /files/malcolm_certain_cv.pdf

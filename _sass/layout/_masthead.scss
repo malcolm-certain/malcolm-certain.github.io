@@ -37,7 +37,7 @@
 }
 
 .masthead__menu {
-
+  
   ul {
     margin: 0;
     padding: 0;
@@ -47,13 +47,14 @@
 }
 
 .masthead__menu-item {
+
   background-color: var(--global-bg-color);
   display: block;
   list-style-type: none;
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 4.8em;
     font-weight: 700;
   }
 }
