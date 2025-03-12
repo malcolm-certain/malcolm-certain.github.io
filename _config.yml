@@ -13,7 +13,7 @@ title                    : "Malcolm Certain"
 title_separator          : "-"
 name                     : &name "Malcolm Certain"
 description              : &description "I am an aspiring academic economist passionate about improving public policy through the use of data"
-url                      : https://malcolm-certain.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://malcolmcertain.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "malcolm-certain/malcolm-certain.github.io"
 
