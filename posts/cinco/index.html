@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Malcolm Certain">
+<meta name="dcterms.date" content="2025-07-28">
+<meta name="description" content="The game that answers the question: what if UNO were fun?">
 
-<title>Blog – Malcolm Certain</title>
+<title>A Beginner’s Guide to CINCO – Malcolm Certain</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +26,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<link href="../assets/images/favicon.svg" rel="icon" type="image/svg+xml">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-de192d3ea52473b1326fa8eed5b199d7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<link href="../../assets/images/favicon.svg" rel="icon" type="image/svg+xml">
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-de192d3ea52473b1326fa8eed5b199d7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -56,65 +57,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -125,7 +68,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Malcolm Certain</span>
     </a>
   </div>
@@ -135,15 +78,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../posts/index.html" aria-current="page"> 
+    <a class="nav-link" href="../../posts/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../assets/documents/malcolm_certain_cv.pdf" target="_blank"> 
+    <a class="nav-link" href="../../assets/documents/malcolm_certain_cv.pdf" target="_blank"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
@@ -174,21 +117,52 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2FtZXM=">Games <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#cinco-rules" id="toc-cinco-rules" class="nav-link active" data-scroll-target="#cinco-rules">CINCO Rules</a>
+  <ul class="collapse">
+  <li><a href="#basic-rules" id="toc-basic-rules" class="nav-link" data-scroll-target="#basic-rules">Basic Rules</a></li>
+  <li><a href="#extra-fun-rules" id="toc-extra-fun-rules" class="nav-link" data-scroll-target="#extra-fun-rules">Extra Fun Rules</a></li>
+  <li><a href="#sevens" id="toc-sevens" class="nav-link" data-scroll-target="#sevens">Sevens</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog</h1>
-</div>
+<h1 class="title">A Beginner’s Guide to CINCO</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Games</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    The game that answers the question: what if UNO were fun?
+  </div>
+</div>
 
 
 <div class="quarto-title-meta column-page-left">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Malcolm Certain </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">July 28, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -198,45 +172,53 @@ window.Quarto = {
 </header>
 
 
-<p>Welcome to my blog! Here is where I write about my hobbies, academic and professional experiences, and musings on various other things that come to mind.</p>
+<p>UNO is not a very good game.</p>
+<p>This is something my friends and I found out very quickly in senior year of high school. Our second period English class was, frankly, not very interesting (no shade to our teacher, Mr.&nbsp;Simmons, who was fantastic). And so, when the class would invariably be opened up to free reading, we would leave and go to the library.</p>
+<p>The library did not have much more in the way of entertainment, but it did have an UNO deck. We thus played an obscene amount of UNO. Unfortunately, as previously stated, UNO is not a very good game. It requires almost no skill while not being nearly engaging enough to be worth the swinginess. This is tolerable for the occasional casual party game; not so for our entertainment of choice for the rest of senior year. As such, we made a change: the winner of each game must add an additional rule.</p>
+<p>At first, we began with low-hanging fruit. Things that are so commonly house-ruled in that you might be surprised to learn they aren’t in the base game. Drawing extra cards until you have a play. Stacking +2s. Jump-ins.</p>
+<p>But eventually, we ran out of the classic house-rules, and things started to get strange. Rules like playing a 0 causes everyone to pass their hands in turn order. Or every 7 having a different effect depending on its color. The fan favorite is the red 7, which causes the next player to speak in English to draw 7 cards.</p>
+<p>And, of course, the name of the game. If you have exactly five cards in hand and don’t say, “CINCO!”, you have to draw five cards.</p>
+<p>The modifications made the game much more enjoyable. Before, UNO was about playing whatever you had in your hand and hoping to get lucky. Now, there was skill. Strategy. You needed reaction time and awareness. You could plan plays to screw over your opponents. Where UNO is leisurely and dull, CINCO is fast-paced and intense.</p>
+<p>Eventually, CINCO began to get cumbersome, buckling under the weight of its own rules. Recognizing this, our final rule change was that the winner would no longer be allowed to add a rule. CINCO had reached its pinnacle.</p>
+<p>Soon after, the five of us graduated. As a parting gift, my friend Daniella bought us all UNO decks with custom-made, laminated copies of the CINCO rules. Our mission was to spread the game to our friends at college, which we’ve each accomplished at varying levels of success.</p>
+<p>I now spread this beautiful game to you, dear reader. Below you can find the rules to CINCO. Good luck, and remember that if you play a 0 as the last card in your hand, the person next to you wins.</p>
+<section id="cinco-rules" class="level2">
+<h2 class="anchored" data-anchor-id="cinco-rules">CINCO Rules</h2>
+<section id="basic-rules" class="level3">
+<h3 class="anchored" data-anchor-id="basic-rules">Basic Rules</h3>
+<ul>
+<li><p><strong>Draw until play:</strong> If you do not have a legal play, you must draw cards until you do.</p></li>
+<li><p><strong>Stacking cards:</strong> You can play multiple cards per turn, but they all must be the same number.</p></li>
+<li><p><strong>Stacking +2s:</strong> You may play a +2 on a +2 (or a +4 on a +4) and the cards will all be drawn by the next person. You may not stack a +2 on a +4 or vice versa.</p></li>
+<li><p><strong>Jump-ins:</strong> You may play a card when it is not your turn if it <em>exactly</em> matches the top card of the pile.</p></li>
+<li><p><strong>CINCO:</strong> When a player has five cards in their hand, they must call CINCO or draw five cards.</p></li>
+<li><p><strong>Color changes:</strong> When a player announces the new color upon playing a wild card, any other player may jump in with a card of that color, regardless of turn order.</p></li>
+</ul>
+</section>
+<section id="extra-fun-rules" class="level3">
+<h3 class="anchored" data-anchor-id="extra-fun-rules">Extra Fun Rules</h3>
+<ul>
+<li><p><strong>Blue + yellow = green:</strong> If blue and yellow are played together in a stack, it counts as though a green card has just been played.</p></li>
+<li><p><strong>69:</strong> 6s and 9s are interchangeable.</p></li>
+<li><p><strong>Zeros:</strong> When a 0 is played, everyone must pass their hand in turn order. If the 0 was red, the player who played it must draw ten cards before passing their hand.</p></li>
+<li><p><strong>Three card skip:</strong> When you stack exactly three of a kind, the next player’s turn is skipped.</p></li>
+<li><p><strong>Reverses on draw:</strong> If you would draw cards due to a +2 or +4, you may instead play a reverse of the correct color to cause the previous player to draw those cards.</p></li>
+</ul>
+</section>
+<section id="sevens" class="level3">
+<h3 class="anchored" data-anchor-id="sevens">Sevens</h3>
+<ul>
+<li><p><strong>Red 7:</strong> The next person to speak English after a red 7 is played draws seven cards. This effect is cancelled if another red 7 is played.</p></li>
+<li><p><strong>Yellow 7:</strong> The person who plays a yellow 7 may swap hands with the player of their choice.</p></li>
+<li><p><strong>Green 7:</strong> The last person to touch their nose with their finger after a green 7 is played draws four cards.</p></li>
+<li><p><strong>Blue 7:</strong> Begin a subgame of UNO. All players set aside their hands and draw two cards. A new card is drawn from the top to begin the new pile. Beginning with the person who played the blue 7, a game of classic UNO is played until one player wins and the other players add their remaining cards to their hand. If any player attempts to make a play that is legal in CINCO but not legal in UNO, the subgame terminates and that player takes everyone’s cards.</p></li>
+</ul>
 
 
+</section>
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="R2FtZXM=" data-listing-date-sort="1753660800000" data-listing-file-modified-sort="1753767187497" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="872">
-<a href="../posts/cinco/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../posts/cinco/preview.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-A Beginner’s Guide to CINCO
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('R2FtZXM='); return false;">Games</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>The game that answers the question: what if UNO were fun?</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Malcolm Certain
-</div>
-<div class="listing-date">
-Jul 28, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

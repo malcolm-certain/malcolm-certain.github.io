@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://malcolmcertain.com/posts/index.html</loc>
-    <lastmod>2025-07-29T04:05:43.960Z</lastmod>
+    <loc>https://malcolmcertain.com/posts/cinco/index.html</loc>
+    <lastmod>2025-07-29T05:33:07.497Z</lastmod>
   </url>
   <url>
     <loc>https://malcolmcertain.com/index.html</loc>
-    <lastmod>2025-07-29T04:05:43.960Z</lastmod>
+    <lastmod>2025-07-29T05:33:07.497Z</lastmod>
+  </url>
+  <url>
+    <loc>https://malcolmcertain.com/posts/index.html</loc>
+    <lastmod>2025-07-29T05:33:07.497Z</lastmod>
   </url>
 </urlset>
