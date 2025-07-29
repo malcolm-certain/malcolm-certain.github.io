@@ -1,0 +1,67 @@
+---
+title: "A Beginner's Guide to CINCO"
+description: "The game that answers the question: what if UNO were fun?"
+author: "Malcolm Certain"
+date: 2025-07-28
+categories: Games
+image: preview.png
+draft: false
+---
+
+UNO is not a very good game.
+
+This is something my friends and I found out very quickly in senior year of high school. Our second period English class was, frankly, not very interesting (no shade to our teacher, Mr. Simmons, who was fantastic). And so, when the class would invariably be opened up to free reading, we would leave and go to the library.
+
+The library did not have much more in the way of entertainment, but it did have an UNO deck. We thus played an obscene amount of UNO. Unfortunately, as previously stated, UNO is not a very good game. It requires almost no skill while not being nearly engaging enough to be worth the swinginess. This is tolerable for the occasional casual party game; not so for our entertainment of choice for the rest of senior year. As such, we made a change: the winner of each game must add an additional rule.
+
+At first, we began with low-hanging fruit. Things that are so commonly house-ruled in that you might be surprised to learn they aren't in the base game. Drawing extra cards until you have a play. Stacking +2s. Jump-ins.
+
+But eventually, we ran out of the classic house-rules, and things started to get strange. Rules like playing a 0 causes everyone to pass their hands in turn order. Or every 7 having a different effect depending on its color. The fan favorite is the red 7, which causes the next player to speak in English to draw 7 cards.
+
+And, of course, the name of the game. If you have exactly five cards in hand and don't say, "CINCO!", you have to draw five cards.
+
+The modifications made the game much more enjoyable. Before, UNO was about playing whatever you had in your hand and hoping to get lucky. Now, there was skill. Strategy. You needed reaction time and awareness. You could plan plays to screw over your opponents. Where UNO is leisurely and dull, CINCO is fast-paced and intense.
+
+Eventually, CINCO began to get cumbersome, buckling under the weight of its own rules. Recognizing this, our final rule change was that the winner would no longer be allowed to add a rule. CINCO had reached its pinnacle.
+
+Soon after, the five of us graduated. As a parting gift, my friend Daniella bought us all UNO decks with custom-made, laminated copies of the CINCO rules. Our mission was to spread the game to our friends at college, which we've each accomplished at varying levels of success.
+
+I now spread this beautiful game to you, dear reader. Below you can find the rules to CINCO. Good luck, and remember that if you play a 0 as the last card in your hand, the person next to you wins.
+
+## CINCO Rules
+
+### Basic Rules
+
+- **Draw until play:** If you do not have a legal play, you must draw cards until you do.
+
+- **Stacking cards:** You can play multiple cards per turn, but they all must be the same number.
+
+- **Stacking +2s:** You may play a +2 on a +2 (or a +4 on a +4) and the cards will all be drawn by the next person. You may not stack a +2 on a +4 or vice versa.
+
+- **Jump-ins:** You may play a card when it is not your turn if it *exactly* matches the top card of the pile.
+
+- **CINCO:** When a player has five cards in their hand, they must call CINCO or draw five cards.
+
+- **Color changes:** When a player announces the new color upon playing a wild card, any other player may jump in with a card of that color, regardless of turn order.
+
+### Extra Fun Rules
+
+- **Blue + yellow = green:** If blue and yellow are played together in a stack, it counts as though a green card has just been played.
+
+- **69:** 6s and 9s are interchangeable.
+
+- **Zeros:** When a 0 is played, everyone must pass their hand in turn order. If the 0 was red, the player who played it must draw ten cards before passing their hand.
+
+- **Three card skip:** When you stack exactly three of a kind, the next player's turn is skipped.
+
+- **Reverses on draw:** If you would draw cards due to a +2 or +4, you may instead play a reverse of the correct color to cause the previous player to draw those cards.
+
+### Sevens
+
+- **Red 7:** The next person to speak English after a red 7 is played draws seven cards. This effect is cancelled if another red 7 is played.
+
+- **Yellow 7:** The person who plays a yellow 7 may swap hands with the player of their choice.
+
+- **Green 7:** The last person to touch their nose with their finger after a green 7 is played draws four cards.
+
+- **Blue 7:** Begin a subgame of UNO. All players set aside their hands and draw two cards. A new card is drawn from the top to begin the new pile. Beginning with the person who played the blue 7, a game of classic UNO is played until one player wins and the other players add their remaining cards to their hand. If any player attempts to make a play that is legal in CINCO but not legal in UNO, the subgame terminates and that player takes everyone's cards.
