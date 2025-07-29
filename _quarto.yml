@@ -11,7 +11,7 @@ website:
     right:
       - text: "Home"
         href: index.qmd
-      - posts.qmd
+      - posts/index.qmd
       - text: "CV"
         href: assets/documents/malcolm_certain_cv.pdf
         target: _blank
