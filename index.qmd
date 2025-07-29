@@ -1,0 +1,46 @@
+---
+title: "Malcolm Certain"
+about:
+    template: trestles
+    image: assets/images/profile.png
+    links:
+        - text: "{{< fa classic envelope >}} Email"
+          href: "mailto:malcolm_certain@brown.edu"
+          target: _blank
+          aria-label: "Email"
+        - text: "{{< fa brands bluesky size=sm >}} BlueSky"
+          href: https://bsky.app/profile/malcolmcertain.com
+          target: _blank
+          aria-label: "BlueSky"
+        - text: "{{< fa brands linkedin >}} LinkedIn"
+          href: https://linkedin.com/in/malcolm-certain
+          target: _blank
+          aria-label: "LinkedIn"
+        - text: "{{< fa brands github size=1em >}} GitHub"
+          href: https://github.com/malcolm-certain
+          target: _blank
+          aria-label: "GitHub"
+format:
+  html:
+    toc: false
+---
+
+<p style="text-align: justify; text-align-last: left">Welcome! I'm Malcolm, an undergraduate at Brown University studying Applied Mathematics - Economics and Urban Studies. I'm interested in the application of quantitative methods to a range of topics in economics, particularly public policy. I have research experience under multiple top scholars in economics spanning the fields of education, political economy, health, and public economics. Outside of research and coursework, I like to play video games, try new restaurants, and write and solve puzzles.</p>
+
+### Education
+
+**Brown University** | Providence, RI
+
+Sc.B. in Applied Mathematics - Economics and Urban Studies | Spring 2026
+
+### Experience
+
+**Annenberg Institute at Brown University** | Providence, RI
+
+Undergraduate Research Assistant | Fall 2024 -- Present
+
+**Brown University** | Providence, RI
+
+Undergraduate Teaching Assistant | Spring 2023 -- Present
+
+For a more detailed description of my work experience, please see <a href=assets/documents/malcolm_certain_cv.pdf target=_blank>my CV</a>.

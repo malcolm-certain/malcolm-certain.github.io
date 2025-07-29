@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - /assets
+
+website:
+  title: "Malcolm Certain"
+  favicon: assets/images/favicon.svg
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - posts.qmd
+      - text: "CV"
+        href: assets/documents/malcolm_certain_cv.pdf
+        target: _blank
+      - text: "{{< fa classic envelope >}}"
+        href: "mailto:malcolm_certain@brown.edu"
+        target: _blank
+        aria-label: "Email"
+      - text: "{{< fa brands bluesky size=sm >}}"
+        href: "https://bsky.app/profile/malcolmcertain.com"
+        target: _blank
+        aria-label: "BlueSky"
+      - text: "{{< fa brands linkedin >}}"
+        href: https://linkedin.com/in/malcolm-certain
+        target: _blank
+        aria-label: "LinkedIn"
+      - text: "{{< fa brands github size=1em >}}"
+        href: https://github.com/malcolm-certain
+        target: _blank
+        aria-label: "GitHub"
+  search: false
+  page-footer:
+    background: light
+    left: Copyright 2025, Malcolm Certain
+    right: This website was built using <a href="https://quarto.org/" target=_blank>Quarto</a> <br> and is hosted on <a href="https://pages.github.com/" target=_blank>GitHub Pages</a>.
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    mainfont: "Computer Modern"
+    fontsize: 1.1em
+    toc: true
+    page-layout: full
+
+
+
