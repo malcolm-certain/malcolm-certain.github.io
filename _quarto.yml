@@ -7,6 +7,7 @@ project:
 website:
   title: "Malcolm Certain"
   favicon: assets/images/favicon.svg
+  site-url: "https://malcolmcertain.com"
   navbar:
     right:
       - text: "Home"
