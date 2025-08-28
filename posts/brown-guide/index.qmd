@@ -15,13 +15,45 @@ draft: false
 
 ### Picking a Concentration
 
+### Useful Software
+
+MS Office
+
+Adobe Suite
+
+$\LaTeX$
+
+Citation manager
+
+Markdown editor for notetaking
+
 ## Campus Resources
+
+Below is a list of campus resources with links to their websites.
+
+### Employment and Career Services
+
+The <a href="https://career-center.brown.edu/" target="_blank">Center for Career Exploration</a> provides career counseling, resume and cover letter feedback, mock interviews, and other career services.
+
+<a href="https://brown.joinhandshake.com/" target="_blank">Handshake</a> is Brown's off-campus job and internship board. It is also where you can find employer sponsored events and make appointments with career counselors.
+
+<a href="https://workday.brown.edu/" target="_blank">Workday</a> hosts Brown's internal student job board.
+
+Brown's alumni network can be accessed via <a href="https://brownconnectplus.brown.edu/" target="_blank">BrownConnect+</a>.
+
+<a href="https://career-center.brown.edu/sprint-program" target="_blank">SPRINT</a> funds research for Brown undergraduates, including the UTRA program, which provides stipended research opportunities during both the school year and summer.
+
+For students interested in public interest work, <a href="https://career-center.brown.edu/sprint/careers-common-good-ccg-winternships" target="_blank">CCG Winternships</a> are two-week long internships with non-profit organizations held during winter break.
 
 ### Health and Wellness
 
-health services
+<a href="https://healthservices.brown.edu/" target="_blank">Student Health Services</a> offers primary care services for Brown students. To make an appointment, call them at <a href="tel:+14018633953" target="_blank">401-863-3953</a>.
 
-caps
+<a href="https://caps.brown.edu/" target="_blank">Counseling and Psychological Services</a> (CAPS) is Brown's mental health service. They can be reached at <a href="tel:+14018633476" target="_blank">401-863-3476</a>.
+
+The Brown medical and public safety emergency phone number is <a href="tel:+14018634111" target="_blank">401-863-4111</a>.
+
+These numbers, as well as other health and safety related phone numbers, are also listed on the back of your Brown ID.
 
 ### Identity Centers
 
@@ -33,7 +65,7 @@ stonewall
 
 sarah doyle
 
-international student center (?)
+global brown center
 
 ### Academic Support
 
@@ -49,6 +81,10 @@ sas
 
 DUGs
 
+library
+
+CRC
+
 ### Clubs and Events
 
 today at brown
@@ -60,8 +96,6 @@ listserv
 club directory
 
 sao
-
-library
 
 ### Apps
 
@@ -87,33 +121,35 @@ Snackpass
 
 Providence is known for punching above its weight when it comes to food. Below are some of my favorite restaurants on and around campus.
 
-Rong Chic
-
-Jahunger
-
 Chinatown
-
-Simha
 
 Mike's Calzones
 
-Dolores
+Amy's
+
+Chipotle
+
+Lotus Pepper
+
+Tribos
 
 Xaco Taco
 
 Irregardless
 
-Aguardente
-
-Tribos
-
 Tea in Sahara
 
-Amy's
-
-Lotus Pepper
-
 Track 15
+
+Rong Chic
+
+Jahunger
+
+Simha
+
+Dolores
+
+Aguardente
 
 ### Cafes, Bakeries, and Desserts
 
@@ -139,15 +175,7 @@ Kow Kow
 
 Three Sisters
 
-### Specialty Shops
-
 East Side Cheese and Provisions
-
-Ocean State Tea and Spices
-
-Good Fortune
-
-Central Meat Market
 
 ### Activities and Destinations
 
