@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Malcolm Certain",
+    "section": "",
+    "text": "Welcome! I’m Malcolm, an undergraduate at Brown University studying Applied Mathematics - Economics and Urban Studies. I’m interested in the application of quantitative methods to a range of topics in economics, particularly public policy. I have research experience under multiple top scholars in economics spanning the fields of education, political economy, health, and public economics. Outside of research and coursework, I like to play video games, try new restaurants, and write and solve puzzles.\n\n\nEducation\nBrown University | Providence, RI\nSc.B. in Applied Mathematics - Economics and Urban Studies | Spring 2026\n\n\nExperience\nAnnenberg Institute at Brown University | Providence, RI\nUndergraduate Research Assistant | Fall 2024 – Present\nBrown University | Providence, RI\nUndergraduate Teaching Assistant | Spring 2023 – Present\nFor a more detailed description of my work experience, please see my CV."
+  },
+  {
     "objectID": "posts/cinco/index.html",
     "href": "posts/cinco/index.html",
     "title": "A Beginner’s Guide to CINCO",
@@ -12,13 +19,6 @@
     "title": "A Beginner’s Guide to CINCO",
     "section": "CINCO Rules",
     "text": "CINCO Rules\n\nBasic Rules\n\nDraw until play: If you do not have a legal play, you must draw cards until you do.\nStacking cards: You can play multiple cards per turn, but they all must be the same number.\nStacking +2s: You may play a +2 on a +2 (or a +4 on a +4) and the cards will all be drawn by the next person. You may not stack a +2 on a +4 or vice versa.\nJump-ins: You may play a card when it is not your turn if it exactly matches the top card of the pile.\nCINCO: When a player has five cards in their hand, they must call CINCO or draw five cards.\nColor changes: When a player announces the new color upon playing a wild card, any other player may jump in with a card of that color, regardless of turn order.\n\n\n\nExtra Fun Rules\n\nBlue + yellow = green: If blue and yellow are played together in a stack, it counts as though a green card has just been played.\n69: 6s and 9s are interchangeable.\nZeros: When a 0 is played, everyone must pass their hand in turn order. If the 0 was red, the player who played it must draw ten cards before passing their hand.\nThree card skip: When you stack exactly three of a kind, the next player’s turn is skipped.\nReverses on draw: If you would draw cards due to a +2 or +4, you may instead play a reverse of the correct color to cause the previous player to draw those cards.\n\n\n\nSevens\n\nRed 7: The next person to speak English after a red 7 is played draws seven cards. This effect is cancelled if another red 7 is played.\nYellow 7: The person who plays a yellow 7 may swap hands with the player of their choice.\nGreen 7: The last person to touch their nose with their finger after a green 7 is played draws four cards.\nBlue 7: Begin a subgame of UNO. All players set aside their hands and draw two cards. A new card is drawn from the top to begin the new pile. Beginning with the person who played the blue 7, a game of classic UNO is played until one player wins and the other players add their remaining cards to their hand. If any player attempts to make a play that is legal in CINCO but not legal in UNO, the subgame terminates and that player takes everyone’s cards."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Malcolm Certain",
-    "section": "",
-    "text": "Welcome! I’m Malcolm, an undergraduate at Brown University studying Applied Mathematics - Economics and Urban Studies. I’m interested in the application of quantitative methods to a range of topics in economics, particularly public policy. I have research experience under multiple top scholars in economics spanning the fields of education, political economy, health, and public economics. Outside of research and coursework, I like to play video games, try new restaurants, and write and solve puzzles.\n\n\nEducation\nBrown University | Providence, RI\nSc.B. in Applied Mathematics - Economics and Urban Studies | Spring 2026\n\n\nExperience\nAnnenberg Institute at Brown University | Providence, RI\nUndergraduate Research Assistant | Fall 2024 – Present\nBrown University | Providence, RI\nUndergraduate Teaching Assistant | Spring 2023 – Present\nFor a more detailed description of my work experience, please see my CV."
   },
   {
     "objectID": "posts/index.html",
