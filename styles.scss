@@ -5,13 +5,15 @@ $font-family-monospace: "Computer Modern";
 $bs-body-font-family: "Computer Modern";
 $web-font-path: "No";
 
+/*-- scss:rules --*/
+
 //fonts
 @font-face {
   font-display: swap;
   font-family: "Computer Modern";
   font-style: normal;
   font-weight: 400;
-  src: url("./fonts/NewCM10-Regular.otf") format("otf");
+  src: url("./assets/fonts/NewCM10-Regular.otf") format("otf");
 }
 
 @font-face {
@@ -19,7 +21,7 @@ $web-font-path: "No";
   font-family: "Computer Modern";
   font-style: italic;
   font-weight: 400;
-  src: url("./fonts/NewCM10-Italic.otf") format("otf");
+  src: url("./assets/fonts/NewCM10-Italic.otf") format("otf");
 }
 
 @font-face {
@@ -27,7 +29,7 @@ $web-font-path: "No";
   font-family: "Computer Modern";
   font-style: normal;
   font-weight: 700;
-  src: url("./fonts/NewCM10-Bold.otf") format("otf");
+  src: url("./assets/fonts/NewCM10-Bold.otf") format("otf");
 }
 
 @font-face {
@@ -35,7 +37,7 @@ $web-font-path: "No";
   font-family: "Computer Modern";
   font-style: italic;
   font-weight: 700;
-  src: url("./fonts/NewCM10-BoldItalic.otf") format("otf");
+  src: url("./assets/fonts/NewCM10-BoldItalic.otf") format("otf");
 }
 
 //colors
