@@ -42,7 +42,7 @@ format:
     theme:
       - cosmo
       - styles.scss
-    mainfont: Times New Roman
+    mainfont: Trebuchet MS
     fontsize: 1.1em
     toc: true
     page-layout: full
