@@ -25,13 +25,13 @@ format:
     toc: false
 ---
 
-<p style="text-align: justify; text-align-last: left">Welcome! I'm Malcolm, an undergraduate at Brown University studying Applied Mathematics - Economics and Urban Studies. I'm interested in the application of quantitative methods to a range of topics in economics, particularly public policy. I have research experience under multiple top scholars in economics spanning the fields of education, political economy, health, and public economics. Outside of research and coursework, I like to play video games, try new restaurants, and write and solve puzzles.</p>
+<p style="text-align: justify; text-align-last: left">Welcome! I'm Malcolm, an undergraduate at Brown University studying Applied Mathematics-Economics and Urban Studies. I'm interested in the application of quantitative methods to a range of topics in economics, particularly public policy. I have research experience under multiple top scholars in economics spanning the fields of education, political economy, health, and public economics. Outside of research and coursework, I like to play video games, try new restaurants, and write and solve puzzles.</p>
 
 ### Education
 
 **Brown University** | Providence, RI
 
-Sc.B. in Applied Mathematics - Economics and Urban Studies | Spring 2026
+Sc.B. in Applied Mathematics-Economics and Urban Studies | Spring 2026
 
 ### Experience
 
